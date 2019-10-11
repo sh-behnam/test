@@ -20,6 +20,7 @@ https://github.com/lsds/TaLoS
 
 Mbed TLS:
 mbedtls-SGX is a port of mbedtls (previously PolarSSL) to Intel-SGX. mbedtls-SGX aims to preserve all of the features of mbedtls. 
+
 As far as I understand (and talk to Hesham) this library is good if you want to use ECC encryption.
 
 https://github.com/bl4ck5un/mbedtls-SGX
